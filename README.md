@@ -13,6 +13,6 @@
 <ol>
 <li>Clone this repository</li>
 <li>Within the /DataAnalysis folder, open each .r script and run each line individually: <br>
-![RStudio directions](https://i.imgur.com/1oTuSQU.png)
+![RStudio directions](r_screenshot.png)
 </li>
 </ol>
